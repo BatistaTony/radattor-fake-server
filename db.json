@@ -1,0 +1,285 @@
+{
+  "users": [
+    {
+      "created_at": "2022-12-11T13:30:01.032Z",
+      "email": "batistaoliveira@gmail.com",
+      "fullname": "batista oliveira",
+      "id": 5,
+      "phone": "9999999999",
+      "profileImage": null,
+      "sequence": 1,
+      "status": "activated",
+      "updated_at": "2022-12-12T07:00:05.127Z",
+      "userType": "validator",
+      "username": "batista.oliveira"
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "changeName": "Nome",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Jose Tony"
+    },
+    {
+      "id": 2,
+      "changeName": "Coluna 123435454XXC-3",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Joao Tone"
+    },
+    {
+      "id": 3,
+      "changeName": "Projecto XXXX24378343",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Ray Tone"
+    },
+    {
+      "id": 4,
+      "changeName": "Nome",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Batista Tone"
+    },
+    {
+      "id": 5,
+      "changeName": "Password",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Caio Oliveirs"
+    },
+    {
+      "changeName": "Status",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Batista Oliveirs"
+    },
+    {
+      "id": 6,
+      "changeName": "Documento XXXXXXX",
+      "date": "20/12/2020 - 10:20:20",
+      "user": "Batista Oliveirs"
+    }
+  ],
+  "layouts": [
+    {
+      "id": 1,
+      "title": "Revista A4",
+      "description": "modelo para revistas online",
+      "icon": "",
+      "size": {
+        "width": "1588",
+        "height": "2246"
+      },
+      "columns": [
+        {
+          "id": "3243",
+          "x": 0,
+          "y": 0,
+          "width": "479px",
+          "height": "631px"
+        },
+        {
+          "id": "288.70073211035185",
+          "x": 481,
+          "y": 0,
+          "width": "311px",
+          "height": "440px"
+        },
+        {
+          "id": "857.3498920676114",
+          "x": 481,
+          "y": 443,
+          "width": "312px",
+          "height": "677px"
+        },
+        {
+          "id": "218.7959750013486",
+          "x": 3,
+          "y": 633,
+          "width": "475px",
+          "height": "486px"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modelo Blog 4x4",
+      "description": "modelo para blogs em quadrado",
+      "icon": "",
+      "size": {
+        "width": "1588",
+        "height": "2246"
+      },
+      "columns": [
+        {
+          "id": "3243",
+          "x": 0,
+          "y": 0,
+          "width": "479px",
+          "height": "631px"
+        },
+        {
+          "id": "288.70073211035185",
+          "x": 481,
+          "y": 0,
+          "width": "311px",
+          "height": "440px"
+        },
+        {
+          "id": "857.3498920676114",
+          "x": 481,
+          "y": 443,
+          "width": "312px",
+          "height": "194px"
+        },
+        {
+          "id": "218.7959750013486",
+          "x": 3,
+          "y": 633,
+          "width": "475px",
+          "height": "486px"
+        },
+        {
+          "id": "143.42382752474526",
+          "x": 476,
+          "y": 638,
+          "width": "316px",
+          "height": "465px"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Modelo jornal tradicional",
+      "description": "modelo para jornais",
+      "icon": "",
+      "size": {
+        "width": "1588",
+        "height": "2246"
+      },
+      "columns": [
+        {
+          "id": "3243",
+          "x": 0,
+          "y": 0,
+          "width": "479px",
+          "height": "631px"
+        },
+        {
+          "id": "288.70073211035185",
+          "x": 481,
+          "y": 0,
+          "width": "311px",
+          "height": "440px"
+        },
+        {
+          "id": "857.3498920676114",
+          "x": 481,
+          "y": 443,
+          "width": "312px",
+          "height": "677px"
+        },
+        {
+          "id": "218.7959750013486",
+          "x": 3,
+          "y": 633,
+          "width": "475px",
+          "height": "486px"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "columns": [
+        {
+          "id": "511.3689571969418",
+          "x": 0,
+          "y": 0,
+          "width": "444px",
+          "height": "491px"
+        },
+        {
+          "id": "834.5631227118446",
+          "x": 449,
+          "y": 0,
+          "width": "343px",
+          "height": "492px"
+        },
+        {
+          "id": "510.2482837745905",
+          "x": 3,
+          "y": 492,
+          "width": "788px",
+          "height": "625px"
+        }
+      ],
+      "description": "Simples layout de test",
+      "title": "Layout Revista Nova Gazeta",
+      "size": {
+        "width": "1588",
+        "height": "2246"
+      }
+    },
+    {
+      "id": 40,
+      "columns": [
+        {
+          "id": "893.9051029378293",
+          "x": 0,
+          "y": 0,
+          "width": "423px",
+          "height": "516px"
+        },
+        {
+          "id": "110.70239733853238",
+          "x": 90,
+          "y": 462,
+          "width": "542px",
+          "height": "301px"
+        }
+      ],
+      "description": "Layout test",
+      "title": "Video Recording",
+      "size": {
+        "width": "1588",
+        "height": "2246"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "description": "Revista que mostra alguns ricos de angola",
+      "id": 1,
+      "status": "Arquivado",
+      "title": "Revista Forbes Angola Rappers",
+      "icon": "",
+      "pages": [
+        {
+          "id": 1,
+          "number": 1,
+          "columns": [
+            {
+              "id": "C5",
+              "status": "Aprovado",
+              "columnProp": {
+                "id": "399.3439533907386",
+                "x": 379,
+                "y": 1,
+                "width": "412px",
+                "height": "623px"
+              },
+              "content": "https://gist.githubusercontent.com/BatistaTony/e61969232af066036e21ef5ecd082ec0/raw/b2059c3d318feaf9d08ba9e5210ff0d1afd8a29f/text.md",
+              "validator": {
+                "fullName": "Raimundo Oliveira",
+                "image": ""
+              },
+              "columnist": {
+                "id": 1,
+                "fullName": "Caio Antonio",
+                "image": ""
+              },
+              "wordsLimit": 700
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
