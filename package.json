@@ -1,0 +1,22 @@
+{
+  "name": "json-server-redattor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatistaTony/radattor-fake-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatistaTony/radattor-fake-server/issues"
+  },
+  "homepage": "https://github.com/BatistaTony/radattor-fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
